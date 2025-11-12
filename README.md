@@ -59,7 +59,7 @@ After optimization, the LightGBM model achieved exceptional predictive strength 
 ---
 
 ## 🌐 Streamlit App
-**Live App:** [PrediTech – Predictive Maintenance System](https://smart-maintenance.streamlit.app/)
+**Live App:** [Predictive Maintenance System](https://smart-maintenance.streamlit.app/)
 
 ### App Features
 - Real-time failure prediction using sensor input fields  

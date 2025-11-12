@@ -1,8 +1,7 @@
 # 🧠 Predictive Maintenance System
 
 ## 🔍 Overview
-This is a Predictive Maintenance System designed to detect potential machine failures using real-time sensor data and machine learning models.  
-The project covers the complete machine learning pipeline — from data preprocessing to deployment — enabling industries to **predict failures before they occur**, reducing downtime and operational costs.
+This is a Predictive Maintenance System designed to detect potential machine failures using real-time sensor data and machine learning models.  The project covers the complete machine learning pipeline — from data preprocessing to deployment — enabling industries to **predict failures before they occur**, reducing downtime and operational costs.
 
 ---
 

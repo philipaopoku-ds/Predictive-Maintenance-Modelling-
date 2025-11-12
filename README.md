@@ -59,7 +59,7 @@ After optimization, the LightGBM model achieved exceptional predictive strength 
 ---
 
 ## 🌐 Streamlit App
-**Live App:** [PrediTech – Predictive Maintenance System](https://preditech-predictive-maintenance.streamlit.app/)
+**Live App:** [PrediTech – Predictive Maintenance System](https://smart-maintenance.streamlit.app/)
 
 ### App Features
 - Real-time failure prediction using sensor input fields  
@@ -83,5 +83,5 @@ The Streamlit deployment ensures the system is easily accessible to field engine
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/benmill52/predictive-maintenance-system.git
+git clone https://github.com/philipaopoku-ds/predictive-maintenance-system.git
 
